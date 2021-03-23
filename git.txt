@@ -5,7 +5,7 @@ git add .
 git commit -m "new pic"
 git push origin master
 
-
+git remote add origin git@github.com:trip14nm/pic2.git
 
 接下来先创建一个新分支提交改动
 
