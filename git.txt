@@ -7,6 +7,9 @@ git push origin master
 
 git remote add origin git@github.com:trip14nm/pic2.git
 
+$env:HTTP_PROXY="http://127.0.0.1:7890"
+$env:HTTPS_PROXY="http://127.0.0.1:7890"
+
 接下来先创建一个新分支提交改动
 
 $ git branch newbranch
