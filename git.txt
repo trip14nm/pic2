@@ -1,5 +1,5 @@
 https://cdn.jsdelivr.net/gh/trip7nm/pic2@latest/post/1/
-
+https://cdn.jsdelivr.net/gh/trip14nm/pic2@latest/post/dst/01.png
 https://cdn.jsdelivr.net/gh/trip7nm/pic2@latest/post/3/
 git add .
 git commit -m "new pic"
