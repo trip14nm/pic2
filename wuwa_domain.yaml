@@ -1,0 +1,10 @@
+# Generated from wuwa_domain.yaml
+# SOURCE: wuwa_domain.yaml
+# TOTAL: 4
+
+payload:
+  - '+.aki-game.net'
+  - '+.aki-game2.net'
+  - '+.kurogames.net'
+  - '+.kurogames.xyz'
+  - '+.kurogame-service.net'
