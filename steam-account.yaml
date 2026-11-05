@@ -1,0 +1,8 @@
+# 🎮 Steam Account
+# classical YAML 规则集；策略在主配置的 RULE-SET 中指定。
+payload:
+  - DOMAIN,cm.steampowered.com
+  - DOMAIN,steampowered.com
+  - DOMAIN,api.steampowered.com
+  - DOMAIN,store.steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com

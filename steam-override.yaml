@@ -1,0 +1,4 @@
+# 🎮 Steam Override
+# classical YAML 规则集；策略在主配置的 RULE-SET 中指定。
+payload:
+  - IP-ASN,32590

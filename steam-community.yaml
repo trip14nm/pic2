@@ -1,0 +1,7 @@
+# 🎮 Steam Community
+# classical YAML 规则集；策略在主配置的 RULE-SET 中指定。
+payload:
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
